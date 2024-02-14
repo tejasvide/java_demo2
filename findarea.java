@@ -8,6 +8,6 @@ class findarea
        System.out.println("Enter the Radius of the circle");
        int radius=S.nextInt();
 	area=pi*radius*radius;
-       System.out.("area of the circle is"+area);
+       System.out.println("area of the circle is:"+area);
     }
 }	      
